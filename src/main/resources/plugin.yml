@@ -1,0 +1,6 @@
+name: Nukes
+version: '${project.version}'
+main: me.squeaky2137.nukes.Main
+api-version: 1.18
+authors: [ squeaky2137 ]
+description: Nukes plugin
